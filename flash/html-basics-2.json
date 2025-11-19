@@ -1,0 +1,47 @@
+{
+ "id": "html-tags",
+ "title": "HTML Tags - 2",
+ "description": "Further important HTML tags and their uses.",
+ "cards": [
+   {
+     "q": "What does the <ol> tag create?",
+     "a": "The <ol> tag creates an ordered (numbered) list."
+   },
+   {
+     "q": "How is the <li> tag used?",
+     "a": "The <li> tag defines a list item within <ul>, <ol>, or <menu> elements."
+   },
+   {
+     "q": "What is the function of the <form> tag?",
+     "a": "The <form> tag is used to create an HTML form for user input."
+   },
+   {
+     "q": "How does the <input> tag work?",
+     "a": "The <input> tag specifies a field where users can enter data."
+   },
+   {
+     "q": "What does the <button> tag do in a webpage?",
+     "a": "The <button> tag creates a clickable button."
+   },
+   {
+     "q": "What is the purpose of the <table> tag?",
+     "a": "The <table> tag is used to create tables for displaying tabular data."
+   },
+   {
+     "q": "How is the <tr> tag used?",
+     "a": "The <tr> tag defines a row in a table."
+   },
+   {
+     "q": "What does the <td> tag represent?",
+     "a": "The <td> tag defines a cell within a table row."
+   },
+   {
+     "q": "What is the <th> tag for?",
+     "a": "The <th> tag defines a header cell in a table."
+   },
+   {
+     "q": "What does the <iframe> tag allow?",
+     "a": "The <iframe> tag is used to embed another HTML page within the current page."
+   }
+ ]
+}

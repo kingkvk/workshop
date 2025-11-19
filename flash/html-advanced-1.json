@@ -1,0 +1,47 @@
+{
+  "id": "html-tags-advanced -1",
+  "title": "HTML Tags: Advanced Concepts -1",
+  "description": "Additional HTML tags with more specialized uses.",
+  "cards": [
+    {
+      "q": "What is the <meta> tag used for?",
+      "a": "The <meta> tag provides metadata such as document description, keywords, and character set."
+    },
+    {
+      "q": "How does the <link> tag function?",
+      "a": "The <link> tag links external resources like stylesheets to the HTML document."
+    },
+    {
+      "q": "What is the purpose of the <script> tag?",
+      "a": "The <script> tag is used to embed or reference JavaScript code."
+    },
+    {
+      "q": "What does the <style> tag do?",
+      "a": "The <style> tag allows embedding CSS styles directly in the HTML document."
+    },
+    {
+      "q": "How is the <header> tag used?",
+      "a": "The <header> tag defines a header section for a document or section, typically containing headings and navigation."
+    },
+    {
+      "q": "What is the <footer> tag for?",
+      "a": "The <footer> tag defines the footer section of a document or section, usually including author information or links."
+    },
+    {
+      "q": "What does the <section> tag represent?",
+      "a": "The <section> tag defines a thematic grouping of content, like chapters or parts of a page."
+    },
+    {
+      "q": "How is the <article> tag different?",
+      "a": "The <article> tag represents self-contained content such as a blog post or news article."
+    },
+    {
+      "q": "What is the role of the <nav> tag?",
+      "a": "The <nav> tag defines a section with navigation links."
+    },
+    {
+      "q": "What does the <audio> tag allow?",
+      "a": "The <audio> tag is used to embed sound content like music or speech."
+    }
+  ]
+}

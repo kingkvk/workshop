@@ -1,0 +1,47 @@
+{
+ "id": "html-tags-advanced -2",
+ "title": "Advanced HTML Tags -2",
+ "description": "Advanced HTML tags for enhanced web functionality and semantics.",
+ "cards": [
+   {
+     "q": "What is the <canvas> tag used for?",
+     "a": "The <canvas> tag is used to draw graphics on the fly via scripting (usually JavaScript)."
+   },
+   {
+     "q": "What does the <svg> tag represent?",
+     "a": "The <svg> tag defines scalable vector graphics directly in the HTML document."
+   },
+   {
+     "q": "How is the <details> tag used?",
+     "a": "The <details> tag creates a disclosure widget that users can open or close to view additional information."
+   },
+   {
+     "q": "What is the <summary> tag's role?",
+     "a": "The <summary> tag provides a visible heading for the <details> element."
+   },
+   {
+     "q": "What does the <mark> tag highlight?",
+     "a": "The <mark> tag highlights text for reference or emphasis."
+   },
+   {
+     "q": "How is the <time> tag used?",
+     "a": "The <time> tag represents a specific time or date, machine-readable for programs."
+   },
+   {
+     "q": "What is the purpose of the <meter> tag?",
+     "a": "The <meter> tag represents a scalar measurement within a known range, like disk usage or temperature."
+   },
+   {
+     "q": "How is the <progress> tag different from <meter>?",
+     "a": "The <progress> tag shows progress towards a task completion as a bar."
+   },
+   {
+     "q": "What does the <template> tag contain?",
+     "a": "The <template> tag holds HTML content that is not rendered immediately but can be cloned and inserted later via script."
+   },
+   {
+     "q": "What is the use of the <slot> tag in Web Components?",
+     "a": "The <slot> tag is a placeholder inside a Web Component for external content to be inserted."
+   }
+ ]
+}
