@@ -1,0 +1,47 @@
+{
+  "id": "html-tags",
+  "title": "HTML Tags",
+  "description": "Common HTML tags and their uses.",
+  "cards": [
+    {
+      "q": "What is the purpose of the <html> tag?",
+      "a": "It defines the root element of an HTML document."
+    },
+    {
+      "q": "What does the <head> tag contain?",
+      "a": "It contains metadata, title, and links to stylesheets or scripts."
+    },
+    {
+      "q": "What is the function of the <body> tag?",
+      "a": "It contains the visible content of the webpage."
+    },
+    {
+      "q": "How do you create a heading in HTML?",
+      "a": "Use <h1> to <h6> tags, where h1 is the largest and h6 is the smallest."
+    },
+    {
+      "q": "What is the <p> tag used for?",
+      "a": "It defines a paragraph of text."
+    },
+    {
+      "q": "How do you create a hyperlink in HTML?",
+      "a": "Use the <a> tag with the href attribute, like <a href=\"url\">link text</a>."
+    },
+    {
+      "q": "What is the <img> tag for?",
+      "a": "It embeds an image in the document using the src attribute."
+    },
+    {
+      "q": "How do you create a list in HTML?",
+      "a": "Use <ul> for unordered lists and <ol> for ordered lists, with <li> for each item."
+    },
+    {
+      "q": "What is the <div> tag used for?",
+      "a": "It is a container for grouping and styling content."
+    },
+    {
+      "q": "How do you add a comment in HTML?",
+      "a": "Use <!-- comment --> to add a comment that is not displayed in the browser."
+    }
+  ]
+}
