@@ -1,0 +1,47 @@
+{
+  "id": "css-4",
+  "title": "CSS 4: Effects & Functions",
+  "description": "CSS3 effects, variables, and functions.",
+  "cards": [
+    {
+      "q": "What is CSS variable syntax?",
+      "a": "CSS variables are defined with --var-name and used with var(--var-name)."
+    },
+    {
+      "q": "How do you use RGBA colors?",
+      "a": "Use 'rgba(red, green, blue, alpha)' for colors with transparency."
+    },
+    {
+      "q": "What does the 'calc()' function do?",
+      "a": "'calc()' allows you to perform calculations for property values."
+    },
+    {
+      "q": "What is the purpose of the 'clamp()' function?",
+      "a": "'clamp()' sets a value within a minimum and maximum range."
+    },
+    {
+      "q": "How is a drop shadow applied to text?",
+      "a": "Using the 'text-shadow' property."
+    },
+    {
+      "q": "What does 'backdrop-filter' do?",
+      "a": "It applies graphical effects such as blur or color shifting to the area behind an element."
+    },
+    {
+      "q": "What is the 'grid' layout in CSS?",
+      "a": "The 'display: grid;' property enables CSS Grid Layout for two-dimensional layouts."
+    },
+    {
+      "q": "What is the ':root' pseudo-class used for?",
+      "a": "'root' targets the top-level element of the document for global CSS variables."
+    },
+    {
+      "q": "How do you apply a gradient to text?",
+      "a": "With 'background: linear-gradient()' and '-webkit-background-clip: text;'"
+    },
+    {
+      "q": "What is the use of ':nth-child()' in CSS?",
+      "a": "'nth-child()' selects elements based on their sibling order."
+    }
+  ]
+}

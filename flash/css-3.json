@@ -1,0 +1,47 @@
+{
+  "id": "css-3",
+  "title": "CSS 3: Advanced Properties",
+  "description": "Modern CSS3 features and styling techniques.",
+  "cards": [
+    {
+      "q": "What is a CSS pseudo-class?",
+      "a": "A pseudo-class defines a special state of an element, like :hover or :active."
+    },
+    {
+      "q": "How is a box shadow added?",
+      "a": "With the 'box-shadow' property."
+    },
+    {
+      "q": "What does 'border-radius' do?",
+      "a": "It applies rounded corners to elements."
+    },
+    {
+      "q": "What is a CSS transition?",
+      "a": "A transition animates property changes over a specified duration."
+    },
+    {
+      "q": "How do you use a linear gradient for backgrounds?",
+      "a": "With the 'background-image: linear-gradient()' property."
+    },
+    {
+      "q": "What is the use of @media queries?",
+      "a": "Media queries apply CSS rules based on device or viewport conditions for responsive design."
+    },
+    {
+      "q": "What property is used for flexible layouts?",
+      "a": "The 'display: flex;' property enables flexbox layouts."
+    },
+    {
+      "q": "How is a custom web font imported?",
+      "a": "Using '@font-face' rule or 'font-family' with a web font link."
+    },
+    {
+      "q": "What does 'opacity' control?",
+      "a": "Opacity sets the transparency level of an element."
+    },
+    {
+      "q": "How do you create a CSS animation?",
+      "a": "Using '@keyframes' and the 'animation' property."
+    }
+  ]
+}

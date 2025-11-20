@@ -1,0 +1,47 @@
+{
+  "id": "css-1",
+  "title": "CSS 1: Fundamentals",
+  "description": "Basic CSS concepts and syntax.",
+  "cards": [
+    {
+      "q": "What does CSS stand for?",
+      "a": "CSS stands for Cascading Style Sheets."
+    },
+    {
+      "q": "How do you link a CSS file to an HTML document?",
+      "a": "By using the <link> tag with the 'rel' attribute set to 'stylesheet' in the <head> section."
+    },
+    {
+      "q": "What is a CSS selector?",
+      "a": "A CSS selector specifies which HTML elements the style rules apply to."
+    },
+    {
+      "q": "What symbol is used for ID selectors in CSS?",
+      "a": "The # symbol is used for targeting element IDs."
+    },
+    {
+      "q": "How do you write a class selector in CSS?",
+      "a": "Use a period (.) before the class name, e.g., .classname"
+    },
+    {
+      "q": "What property changes text color?",
+      "a": "The 'color' property changes the color of text."
+    },
+    {
+      "q": "How do you set a background color?",
+      "a": "Use the 'background-color' property."
+    },
+    {
+      "q": "What is the default display property for a <div>?",
+      "a": "'block' is the default display value for a <div>."
+    },
+    {
+      "q": "How do you make text bold in CSS?",
+      "a": "Use the 'font-weight' property, e.g., 'font-weight: bold;'"
+    },
+    {
+      "q": "What is the use of the 'margin' property?",
+      "a": "Margin creates space outside an element's border."
+    }
+  ]
+}

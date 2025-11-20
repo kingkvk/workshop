@@ -1,0 +1,47 @@
+{
+  "id": "css-2",
+  "title": "CSS 2: Selectors & Layout",
+  "description": "Selectors, box model, and layout properties.",
+  "cards": [
+    {
+      "q": "What is the CSS box model?",
+      "a": "The box model describes the structure of an element as content, padding, border, and margin."
+    },
+    {
+      "q": "How do you select all <p> tags inside a <div>?",
+      "a": "Using a descendant selector: div p"
+    },
+    {
+      "q": "What property sets the inner space between content and border?",
+      "a": "The 'padding' property."
+    },
+    {
+      "q": "How do you make an element float to the right?",
+      "a": "Use 'float: right;'"
+    },
+    {
+      "q": "What does 'display: none' do?",
+      "a": "It removes the element from the layout (not visible or occupying space)."
+    },
+    {
+      "q": "How do you clear floated elements?",
+      "a": "Use the 'clear' property, e.g., 'clear: both;'"
+    },
+    {
+      "q": "What is an inline element in CSS?",
+      "a": "An inline element only takes up as much width as necessary and does not start a new line."
+    },
+    {
+      "q": "What property sets the width of an element?",
+      "a": "The 'width' property."
+    },
+    {
+      "q": "How do you center an element horizontally using margin?",
+      "a": "Use 'margin: 0 auto;' for block elements."
+    },
+    {
+      "q": "What selector matches elements with a specific attribute?",
+      "a": "The attribute selector, written as [attribute='value']"
+    }
+  ]
+}
