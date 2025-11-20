@@ -1,0 +1,83 @@
+{
+  "id": "tailwind-part4",
+  "title": "Tailwind CSS Customization & Advanced",
+  "description": "Flashcards on customizing Tailwind, using plugins, and leveraging advanced features.",
+  "cards": [
+    {
+      "q": "How do you extend the default theme in Tailwind?",
+      "a": "By editing the theme section in tailwind.config.js to add custom colors, fonts, spacing, etc."
+    },
+    {
+      "q": "How to add custom colors?",
+      "a": "Extend the colors object in tailwind.config.js with your custom palette."
+    },
+    {
+      "q": "What are Tailwind plugins?",
+      "a": "Plugins are packages that extend Tailwind's functionality, adding new utilities or components."
+    },
+    {
+      "q": "How to install a Tailwind plugin?",
+      "a": "Use npm or yarn to install the plugin, then include it in the plugins array in tailwind.config.js."
+    },
+    {
+      "q": "What is the purpose of @apply directive?",
+      "a": "It allows applying multiple utility classes to create custom component styles in CSS."
+    },
+    {
+      "q": "Can you create your own utility classes?",
+      "a": "Yes, using @layer or @variants in your CSS files, combined with @apply."
+    },
+    {
+      "q": "How to generate responsive variants?",
+      "a": "Tailwind automatically generates variants, but you can configure custom variants in tailwind.config.js."
+    },
+    {
+      "q": "What is dark mode in Tailwind?",
+      "a": "A feature that applies different styles based on user's dark/light preference, toggled via class or media query."
+    },
+    {
+      "q": "How do you enable dark mode?",
+      "a": "By setting dark mode to 'media' or 'class' in tailwind.config.js."
+    },
+    {
+      "q": "What are variants in Tailwind?",
+      "a": "Variants are different states like hover, focus, active, responsive, and dark, which modify utility classes."
+    },
+    {
+      "q": "How can you generate custom variants?",
+      "a": "Configure the variants array in tailwind.config.js for specific plugins or utilities."
+    },
+    {
+      "q": "What is JIT mode?",
+      "a": "Just-In-Time mode generates styles on-demand during development, leading to smaller CSS files."
+    },
+    {
+      "q": "How do you optimize production builds?",
+      "a": "Use PurgeCSS default in Tailwind to remove unused styles, or configure 'purge' options."
+    },
+    {
+      "q": "What are arbitrary variants?",
+      "a": "Using square brackets, e.g., hover:[&:not(:last-child)], for fine-tuned styling."
+    },
+    {
+      "q": "Can Tailwind be integrated with frameworks?",
+      "a": "Yes, it works seamlessly with React, Vue, Angular, Svelte, etc."
+    },
+    {
+      "q": "How do you create custom components?",
+      "a": "Using @apply, @layer, or component libraries built with Tailwind like Tailwind UI."
+    },
+    {
+      "q": "How do you handle responsive typography?",
+      "a": "Use responsive variants of font size classes, e.g., text-lg md:text-xl."
+    },
+    {
+      "q": "How to preload custom fonts?",
+      "a": "Use @font-face or link fonts in HTML, then use font-family extensions in Tailwind."
+    },
+    {
+      "q": "What is the best way to customize Tailwind for a project?",
+      "a": "Extend the theme in tailwind.config.js, use plugins, and purge unused styles for optimization."
+    }
+  ]
+}

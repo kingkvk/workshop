@@ -1,0 +1,47 @@
+{
+  "id": "tailwind-part1",
+  "title": "Tailwind CSS Basic Concepts",
+  "description": "Flashcards covering basic concepts and setup of Tailwind CSS.",
+  "cards": [
+    {
+      "q": "What is Tailwind CSS?",
+      "a": "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces."
+    },
+    {
+      "q": "How does Tailwind CSS differ from traditional CSS?",
+      "a": "Instead of writing CSS rules, Tailwind provides utility classes that apply specific styles directly in HTML."
+    },
+    {
+      "q": "What is a utility class?",
+      "a": "A utility class is a single-purpose class that applies one specific style attribute."
+    },
+    {
+      "q": "How is styling applied using Tailwind?",
+      "a": "By adding utility classes in the HTML elements' class attribute."
+    },
+    {
+      "q": "What is the default Tailwind configuration file?",
+      "a": "tailwind.config.js"
+    },
+    {
+      "q": "What is JIT mode in Tailwind?",
+      "a": "Just-In-Time mode generates styles as they are needed for faster builds and smaller CSS files."
+    },
+    {
+      "q": "How to install Tailwind CSS?",
+      "a": "You can install Tailwind via npm or yarn and set it up with PostCSS or frameworks like Next.js."
+    },
+    {
+      "q": "How to include Tailwind in a project?",
+      "a": "Typically by importing Tailwind directives in your CSS file: @tailwind base; @tailwind components; @tailwind utilities;"
+    },
+    {
+      "q": "What is PurgeCSS in Tailwind?",
+      "a": "PurgeCSS removes unused styles from the final CSS build to reduce file size."
+    },
+    {
+      "q": "How to customize colors in Tailwind?",
+      "a": "By extending the colors section in tailwind.config.js."
+    }
+  ]
+}

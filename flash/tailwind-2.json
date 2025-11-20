@@ -1,0 +1,87 @@
+{
+  "id": "tailwind-part2",
+  "title": "Tailwind CSS Utilities and Layout",
+  "description": "Flashcards on utilities, layout, colors, and typography in Tailwind CSS.",
+  "cards": [
+    {
+      "q": "How to apply margin in Tailwind?",
+      "a": "Use classes like m-4 for margin on all sides or mt-2 for margin-top."
+    },
+    {
+      "q": "How to apply padding in Tailwind?",
+      "a": "Use classes like p-4 for padding on all sides or px-2 for horizontal padding."
+    },
+    {
+      "q": "What utility class applies a flexbox container?",
+      "a": "Use 'flex' class to make an element a flex container."
+    },
+    {
+      "q": "How to justify content using Tailwind?",
+      "a": "Use classes like justify-center, justify-between, or justify-end."
+    },
+    {
+      "q": "How to align items in flexbox using Tailwind?",
+      "a": "Use items-start, items-center, or items-end classes."
+    },
+    {
+      "q": "How to set width in Tailwind?",
+      "a": "Use w- followed by a size like w-1/2 for 50% width or w-full for 100% width."
+    },
+    {
+      "q": "How to set height in Tailwind?",
+      "a": "Use h- classes such as h-8 or h-screen for full viewport height."
+    },
+    {
+      "q": "How to change background color?",
+      "a": "Use bg- followed by color name and shade like bg-blue-500."
+    },
+    {
+      "q": "How to set text color?",
+      "a": "Use text- followed by color and shade like text-red-600."
+    },
+    {
+      "q": "What does the class rounded do?",
+      "a": "It applies border-radius for rounded corners."
+    },
+    {
+      "q": "How to create a shadow?",
+      "a": "Use shadow-sm, shadow, or shadow-lg for different shadow sizes."
+    },
+    {
+      "q": "Which class is used for font weight?",
+      "a": "Use font-bold, font-semibold, font-light, etc."
+    },
+    {
+      "q": "How to change font size?",
+      "a": "Use text-xs, text-sm, text-lg, text-xl, etc."
+    },
+    {
+      "q": "How to apply uppercase transformation?",
+      "a": "Use uppercase class to transform text to uppercase."
+    },
+    {
+      "q": "How to add hover effects?",
+      "a": "Prefix utility classes with hover:, e.g., hover:bg-blue-700."
+    },
+    {
+      "q": "How to control visibility of an element?",
+      "a": "Use hidden or block classes."
+    },
+    {
+      "q": "How to enable grid layout?",
+      "a": "Use grid class and specify columns with grid-cols-*"
+    },
+    {
+      "q": "How to control gap between grid items?",
+      "a": "Use gap-*, such as gap-4."
+    },
+    {
+      "q": "How to apply rounded full circle?",
+      "a": "Use rounded-full for fully rounded circles."
+    },
+    {
+      "q": "How to center text?",
+      "a": "Use text-center class."
+    }
+  ]
+}

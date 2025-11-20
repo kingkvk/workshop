@@ -1,0 +1,87 @@
+{
+  "id": "tailwind-part3",
+  "title": "Tailwind CSS Responsiveness & Interactivity",
+  "description": "Flashcards focused on responsive design, interactive states, and positioning notations in Tailwind CSS.",
+  "cards": [
+    {
+      "q": "How do you apply styles for different screen sizes?",
+      "a": "Use responsive prefixes like sm:, md:, lg:, xl:, and 2xl: before utility classes."
+    },
+    {
+      "q": "What does sm:bg-red-500 mean?",
+      "a": "Apply background color red-500 on screen sizes small and larger."
+    },
+    {
+      "q": "How to make an element hidden on mobile but visible on desktop?",
+      "a": "Use hidden and lg:block classes."
+    },
+    {
+      "q": "What is the group-hover utility?",
+      "a": "Allows applying hover styles to child elements when the parent has hover state."
+    },
+    {
+      "q": "How to add focus styles?",
+      "a": "Prefix classes with focus:, e.g., focus:outline-none."
+    },
+    {
+      "q": "How to apply active styles?",
+      "a": "Prefix classes with active:, e.g., active:bg-blue-700."
+    },
+    {
+      "q": "What does peer class do?",
+      "a": "Allows sibling elements to style based on state of a peer element."
+    },
+    {
+      "q": "How does Tailwind handle dark mode?",
+      "a": "Using dark: prefix, styles apply when dark mode is enabled."
+    },
+    {
+      "q": "What is the purpose of the container class?",
+      "a": "Centers and applies responsive max-widths to layout containers."
+    },
+    {
+      "q": "How to use arbitrary values in Tailwind?",
+      "a": "Use square brackets, e.g., w-[72px] for custom widths."
+    },
+    {
+      "q": "What utility controls overflow?",
+      "a": "overflow-auto, overflow-hidden, overflow-scroll, etc."
+    },
+    {
+      "q": "How to apply transition effects?",
+      "a": "Use transition classes like transition, transition-colors."
+    },
+    {
+      "q": "How to set cursor style?",
+      "a": "Use cursor-pointer, cursor-default, etc."
+    },
+    {
+      "q": "How to apply z-index?",
+      "a": "Use z-0, z-10, z-50, etc."
+    },
+    {
+      "q": "What does the relative class do?",
+      "a": "Sets position: relative on an element."
+    },
+    {
+      "q": "How to make an element fixed at the top?",
+      "a": "Use fixed top-0 classes."
+    },
+    {
+      "q": "How to apply gap in flexbox?",
+      "a": "Use gap- classes similar to grid layouts."
+    },
+    {
+      "q": "What is the aspect-ratio utility?",
+      "a": "Maintains fixed aspect ratios, e.g., aspect-w-16 aspect-h-9."
+    },
+    {
+      "q": "How to apply ring utilities?",
+      "a": "Use ring, ring-offset, ring-color classes for outline rings."
+    },
+    {
+      "q": "How to create scroll snapping?",
+      "a": "Use snap-start, snap-center, snap-x, snap-y classes."
+    }
+  ]
+}
