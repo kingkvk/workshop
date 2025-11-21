@@ -1,0 +1,516 @@
+{
+    "title": "HTML Mastery Quiz",
+    "description": "Test your knowledge of HTML fundamentals and best practices.",
+    "questions": [
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "Hyperlinks and Text Markup Language",
+                "Home Tool Markup Language",
+                "Hyper Text Markup Language",
+                "Hyper Tool Markup Language"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML tag is used to define a paragraph?",
+            "options": [
+                "<para>",
+                "<p>",
+                "<pg>",
+                "<text>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the correct HTML element for the largest heading?",
+            "options": [
+                "<heading>",
+                "<h6>",
+                "<h1>",
+                "<head>"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+            "options": [
+                "title",
+                "src",
+                "alt",
+                "longdesc"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which tag is used to create a hyperlink in HTML?",
+            "options": [
+                "<a>",
+                "<link>",
+                "<href>",
+                "<hyper>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which HTML element is used to define the title of a document?",
+            "options": [
+                "<meta>",
+                "<title>",
+                "<head>",
+                "<header>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which element is used to insert a line break in HTML?",
+            "options": [
+                "<break>",
+                "<br>",
+                "<lb>",
+                "<line>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML tag is used to define an unordered list?",
+            "options": [
+                "<ol>",
+                "<ul>",
+                "<li>",
+                "<list>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to define a list item?",
+            "options": [
+                "<list>",
+                "<li>",
+                "<item>",
+                "<ul>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What tag is used to display an image in HTML?",
+            "options": [
+                "<img>",
+                "<image>",
+                "<pic>",
+                "<src>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which attribute is used to define inline styles in HTML?",
+            "options": [
+                "font",
+                "style",
+                "class",
+                "styles"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML element is used to define important text?",
+            "options": [
+                "<b>",
+                "<important>",
+                "<strong>",
+                "<i>"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML element defines emphasized text?",
+            "options": [
+                "<em>",
+                "<italic>",
+                "<i>",
+                "<strong>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is the correct HTML for creating a checkbox?",
+            "options": [
+                "<check>",
+                "<input type='checkbox'>",
+                "<checkbox>",
+                "<cb>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which input type defines a button?",
+            "options": [
+                "<input type='button'>",
+                "<input button>",
+                "<button input>",
+                "<button>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which HTML tag is used to display a table?",
+            "options": [
+                "<table>",
+                "<tab>",
+                "<t>",
+                "<tbl>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which HTML element defines table rows?",
+            "options": [
+                "<th>",
+                "<tr>",
+                "<td>",
+                "<row>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag defines a table cell?",
+            "options": [
+                "<tr>",
+                "<th>",
+                "<td>",
+                "<tc>"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML element defines a division or a section?",
+            "options": [
+                "<div>",
+                "<section>",
+                "<span>",
+                "<container>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which element is used to specify a footer for a document or section?",
+            "options": [
+                "<bottom>",
+                "<footer>",
+                "<foot>",
+                "<section>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the correct way to comment in HTML?",
+            "options": [
+                "// comment",
+                "/* comment */",
+                "<!-- comment -->",
+                "# comment"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML attribute specifies the URL of the page the link goes to?",
+            "options": [
+                "link",
+                "href",
+                "src",
+                "target"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to play video files in HTML5?",
+            "options": [
+                "<media>",
+                "<video>",
+                "<movie>",
+                "<play>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to play audio files in HTML5?",
+            "options": [
+                "<music>",
+                "<sound>",
+                "<audio>",
+                "<media>"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which tag defines metadata about an HTML document?",
+            "options": [
+                "<data>",
+                "<head>",
+                "<meta>",
+                "<information>"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which attribute is used to specify that an input field must be filled out?",
+            "options": [
+                "required",
+                "placeholder",
+                "validate",
+                "mustfill"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is the correct HTML element for inserting a line separator?",
+            "options": [
+                "<break>",
+                "<hr>",
+                "<br>",
+                "<line>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML tag defines an inline frame?",
+            "options": [
+                "<iframe>",
+                "<frame>",
+                "<window>",
+                "<embed>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which element is used to define a navigation link section?",
+            "options": [
+                "<nav>",
+                "<navigation>",
+                "<links>",
+                "<menu>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which HTML tag is used to define a form?",
+            "options": [
+                "<input>",
+                "<form>",
+                "<fieldset>",
+                "<submit>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag defines the document body?",
+            "options": [
+                "<body>",
+                "<main>",
+                "<content>",
+                "<section>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which attribute specifies where to open the linked document?",
+            "options": [
+                "destination",
+                "target",
+                "linkto",
+                "location"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the correct HTML for creating a drop-down list?",
+            "options": [
+                "<input type='dropdown'>",
+                "<select>",
+                "<dropdown>",
+                "<list>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML tag is used to define a description list?",
+            "options": [
+                "<ul>",
+                "<dl>",
+                "<list>",
+                "<desc>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag defines a term in a description list?",
+            "options": [
+                "<dt>",
+                "<dd>",
+                "<li>",
+                "<ds>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which tag defines the description of a term in a description list?",
+            "options": [
+                "<dt>",
+                "<dd>",
+                "<desc>",
+                "<define>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the correct doctype for HTML5?",
+            "options": [
+                "<!DOCTYPE HTML PUBLIC>",
+                "<!DOCTYPE html>",
+                "<!DOCTYPE HTML5>",
+                "<HTML>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which attribute can make an input field read-only?",
+            "options": [
+                "readonly",
+                "disabled",
+                "static",
+                "lock"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which tag defines bold text in HTML?",
+            "options": [
+                "<b>",
+                "<bold>",
+                "<strong>",
+                "<black>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which tag defines italic text in HTML?",
+            "options": [
+                "<italic>",
+                "<i>",
+                "<em>",
+                "<it>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to define an internal stylesheet?",
+            "options": [
+                "<css>",
+                "<style>",
+                "<stylesheet>",
+                "<link>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to define an external JavaScript file?",
+            "options": [
+                "<link>",
+                "<script>",
+                "<js>",
+                "<code>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag is used to display preformatted text?",
+            "options": [
+                "<pre>",
+                "<text>",
+                "<code>",
+                "<format>"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which HTML element is used to display computer code?",
+            "options": [
+                "<computer>",
+                "<code>",
+                "<pre>",
+                "<keyboard>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML attribute defines a unique identifier for an element?",
+            "options": [
+                "id",
+                "class",
+                "key",
+                "unique"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which attribute is used to specify a CSS class for an element?",
+            "options": [
+                "style",
+                "id",
+                "class",
+                "group"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which HTML element is used to define a header for a document or section?",
+            "options": [
+                "<head>",
+                "<header>",
+                "<h1>",
+                "<section>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML element is used to embed another webpage?",
+            "options": [
+                "<embed>",
+                "<iframe>",
+                "<object>",
+                "<src>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML tag is used to specify a background color?",
+            "options": [
+                "<background>",
+                "<body bgcolor>",
+                "<color>",
+                "<bg>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which tag defines a clickable button in HTML?",
+            "options": [
+                "<btn>",
+                "<button>",
+                "<click>",
+                "<input>"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which HTML attribute specifies the language of the document?",
+            "options": [
+                "lang",
+                "language",
+                "xml:lang",
+                "meta"
+            ],
+            "correctIndex": 0
+        }
+    ]
+}
