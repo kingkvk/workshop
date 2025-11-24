@@ -57,7 +57,7 @@ section { margin-top: 30px; }
 
 ### Step 2: Initialize Local Repository
 
-Open a terminal in your resume folder and run these commands:[4][5][6]
+Open a terminal in your resume folder and run these commands:
 
 ```bash
 git init
@@ -67,7 +67,7 @@ git config --global user.email "your.email@example.com"
 
 ### Step 3: Add and Commit Your Files
 
-Run these commands one by one to track your files and commit your changes:[5][6][4]
+Run these commands one by one to track your files and commit your changes:
 
 ```bash
 git add index.html style.css
@@ -77,7 +77,7 @@ git commit -m "Initial commit: Add resume files"
 
 ### Step 4: Connect to GitHub Repository
 
-- Go to GitHub and create a new repository (name example: `resume`).[7][8][3]
+- Go to GitHub and create a new repository (name example: `resume`).
 - Copy the repository URL (it looks like `https://github.com/yourusername/resume.git`).
 
 Connect your local folder to GitHub repo:
@@ -98,15 +98,13 @@ git push -u origin master
 ### Step 6: Verify Files on GitHub
 
 - Go to your GitHub repository in your browser.
-- Check if `index.html` and `style.css` are uploaded and visible.[3][9][10]
+- Check if `index.html` and `style.css` are uploaded and visible.
 
 ### Step 7: (Optional) Host the Resume Online with GitHub Pages
 
 - Go to repository 'Settings' > 'Pages' section.[11]
 - Under 'Source', select branch (`main` or `master`) and `/root` as folder.
-- Save and check the link GitHub provides (it will look like `https://yourusername.github.io/resume/`). Your resume will appear live on the Internet.[12][11]
-
-### Essential Git Commands
+- Save and check the link GitHub provides (it will look like `https://yourusername.github.io/resume/`). Your resume will appear live on the Internet.
 
 | Git Command         | Use                                         |
 |---------------------|---------------------------------------------|
