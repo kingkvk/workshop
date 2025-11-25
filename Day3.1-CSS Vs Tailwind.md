@@ -1,5 +1,4 @@
 ***
-
 ## 1. Page & Global Styles
 
 | Concept / Element | Classic CSS (styles.css) | Tailwind CSS Classes (index-tailwind.html) |

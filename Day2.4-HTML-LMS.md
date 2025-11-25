@@ -11,7 +11,7 @@
 
 ***
 
-## 2. Step 1 – Basic HTML Structure for LMS Page
+## 2.Basic HTML Structure for LMS Page
 
 Goal: Create the main sections of an LMS landing page.
 
@@ -88,7 +88,7 @@ Paste this into `index.html`:
       <h2>About MyLMS</h2>
       <p>
         MyLMS is a simple learning management system designed to help students
-        learn web development step by step with practical projects.
+        learn web development  by  with practical projects.
       </p>
     </section>
 
@@ -140,7 +140,7 @@ You will see a plain LMS layout without styling yet.
 
 ***
 
-## 3. Step 2 – Global Styles and Page Layout
+## 3.Global Styles and Page Layout
 
 Goal: Set base font, background color, and basic layout.
 
@@ -172,7 +172,7 @@ The font and background should change.
 
 ***
 
-## 4. Step 3 – Header and Navigation Styling
+## 4.Header and Navigation Styling
 
 Goal: Make a top bar with logo and nav links.
 
@@ -223,7 +223,7 @@ You now have a dark header with navigation similar to a modern LMS.
 
 ***
 
-## 5. Step 4 – Hero (Landing Banner) Styling
+## 5.Hero (Landing Banner) Styling
 
 Goal: Make a nice hero section with a title, description, and CTA button.
 
@@ -293,7 +293,7 @@ The top of the page is now a proper LMS landing hero.
 
 ***
 
-## 6. Step 5 – Courses Grid Styling
+## 6.Courses Grid Styling
 
 Goal: Show courses in a responsive grid of cards.
 
@@ -354,7 +354,7 @@ You should now see a grid of white course cards with shadows.
 
 ***
 
-## 7. Step 6 – About, Contact, and Login Styling
+## 7.About, Contact, and Login Styling
 
 Goal: Make the lower sections look clean and consistent.
 
@@ -420,7 +420,7 @@ The About, Contact, and Login sections are now styled as cards.
 
 ***
 
-## 8. Step 7 – Footer and Small Tweaks
+## 8.Footer and Small Tweaks
 
 Goal: Finish the page with a simple footer and spacing tweaks.
 
@@ -452,7 +452,7 @@ You now have a complete LMS landing page: hero, course list, about, contact, log
 
 ***
 
-## Full `styles.css` (Copyable)
+## Full `styles.css` 
 
 ```css
 /* Global styles */
