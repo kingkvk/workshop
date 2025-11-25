@@ -3,8 +3,8 @@
 
 ### 1. What is a Learning Management System (LMS)?
 - Definition: A software application to deliver, manage, and track learning content and progress.
-- Use Cases: Universities, corporate training, online courses.
-- Example: Canvas, Moodle, EdX platforms enable course delivery, assignments, and progress tracking.
+- Use Cases: Universities, Schools, corporate training, online courses.
+
 
 ### 2. Overview of the Full Stack Technology
 - **React.js (Frontend)**
@@ -26,11 +26,11 @@
 ### 3. Installation and Setup Steps
 
 #### Install Node.js and npm
-- Download from nodejs.org and install.
+- Download from [Node.js](nodejs.org/) and install.
 - Verify installation: `node -v` and `npm -v` commands.
 
 #### Install Git
-- Download and install from git-scm.com.
+- Download and install from [Git](git-scm.com).
 - Verify installation: `git --version` command.
 
 #### Setup VS Code (or preferred IDE)
@@ -38,13 +38,11 @@
 - Install useful extensions: ESLint, Prettier, GitLens.
 
 #### Create GitHub Account and Repository
-- Sign up on github.com.
+- Sign up on [GitHub](github.com).
 - Create a new repository for the LMS project.
 - Clone the repo locally using `git clone <repo-url>`.
 
 #### Setup MongoDB Atlas
-- Register on mongodb.com/cloud/atlas.
+- Register on [MongoDB](mongodb.com/cloud/atlas).
 - Create a free cluster and get connection string for the application.
 
-#### AWS Account Setup (Optional for Day 1)
-- Create AWS account if needed for later deployment steps.
