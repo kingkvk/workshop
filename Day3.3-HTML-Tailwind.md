@@ -462,7 +462,7 @@ This replaces your old `.site-footer` CSS with:
 
 ***
 
-## 10. Full Tailwind LMS Page (Copyable)
+## 10. Full Tailwind LMS Page
 
 Here is the **complete Tailwind version** in one file for your students:
 
