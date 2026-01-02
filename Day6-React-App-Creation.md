@@ -1,5 +1,3 @@
------
-
 ## 🚀 Step 1: Set Up the React Project
 
 You'll start by using **Vite**, a modern build tool, to quickly scaffold a new React project.
@@ -41,28 +39,28 @@ Since you are using Tailwind, you need to install it in your new React project:
 2.  **Generate Tailwind configuration files:**
 
     ```bash
-    npx tailwindcss init -p
+    npm install tailwindcss @tailwindcss/vite
     ```
 
-    This creates `tailwind.config.js` and `postcss.config.js`.
+   
 
-3.  **Configure `tailwind.config.js`:**
-    Update the `content` array in `tailwind.config.js` to tell Tailwind where to look for class names in your React files:
+3.  **Configure `vite.config.js`:**
+    Update the `content` array in `vite.config.js` to tell Tailwind where to look for class names in your React files:
 
     ```javascript
-    // tailwind.config.js
-    /** @type {import('tailwindcss').Config} */
-    export default {
-      content: [
-        "./index.html",
-        // Look for classes in all JS/JSX files inside src/
-        "./src/**/*.{js,ts,jsx,tsx}", 
+    // vite.config.js
+    import { defineConfig } from 'vite'
+    import react from '@vitejs/plugin-react'
+    import tailwindcss from '@tailwindcss/vite'
+
+    // https://vite.dev/config/
+    export default defineConfig({
+    plugins: [
+      react(),
+      tailwindcss(),
       ],
-      theme: {
-        extend: {},
-      },
-      plugins: [],
-    }
+    })
+
     ```
 
 4.  **Add Tailwind Directives to CSS:**
@@ -70,9 +68,8 @@ Since you are using Tailwind, you need to install it in your new React project:
 
     ```css
     /* src/index.css */
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
+    @import "tailwindcss";
+    
     ```
 
 ### 1.3 Clean Up Boilerplate
@@ -177,7 +174,7 @@ Copy the Hero Section HTML and use **`className`**.
 // src/components/Hero.jsx
 function Hero() {
   return (
-    <section className="bg-gradient-to-r from-blue-600 to-blue-500 text-white py-12">
+    <section className="bg-linear-to-r from-blue-600 to-blue-500 text-white py-12">
       <div className="max-w-5xl mx-auto px-4">
         <h1 className="text-3xl md:text-4xl font-bold mb-3">
           Learn Web Development the Smart Way
@@ -449,7 +446,7 @@ function App() {
       <Header />
       <Hero />
 
-      <main className="max-w-5xl mx-auto px-4 py-8 flex-grow">
+      <main className="max-w-5xl mx-auto px-4 py-8 grow">
         {/* Courses Section */}
         <section id="courses" className="mb-10">
           <h2 className="text-2xl font-semibold mb-1">Available Courses</h2>
